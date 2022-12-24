@@ -10,7 +10,7 @@ This python program helps by sending a text messages to your mobile phone whenev
 https://www.alphavantage.co/
 
 @3. Habit Tracking
-
+A habit tracker is a simple way to measure whether you did a habit.
 @4. Exercise Tracking
 
 @5. Flight Deal findar
